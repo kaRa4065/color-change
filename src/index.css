@@ -1,0 +1,35 @@
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.input {
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 2px 2px 10px 5px #efecec;
+  border-radius: 5px;
+  border: 0.5px solid silver;
+}
+main {
+  height: 100px;
+  width: 150px;
+  text-align: center;
+  box-shadow: 2px 2px 10px 5px #efecec;
+  border-radius: 5px;
+  border: 0.5px solid silver;
+}
+button {
+  padding: 10px;
+  margin-top: 20px;
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(88, 249, 88);
+  border-radius: 5px;
+  border: none;
+  box-shadow: 2px 2px 10px 5px #efecec;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
